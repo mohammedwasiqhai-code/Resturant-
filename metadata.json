@@ -1,0 +1,6 @@
+{
+  "name": "L'Aura Fine Dining & Woodfire Kitchen",
+  "description": "A luxury modern artisanal restaurant featuring interactive online ordering, live table reservations, guest reviews, dynamic menu, and chef culinary pairings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
